@@ -1,4 +1,4 @@
-package AulaEncapsulamentoBCC;
+package AccountBank;
 
 public class Conta {
   private Pessoa titular;
