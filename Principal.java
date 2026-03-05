@@ -130,6 +130,7 @@ public class Principal {
         break;
       }
     }
+    scan.close();
 
   }
 }
