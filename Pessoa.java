@@ -1,4 +1,4 @@
-package AulaEncapsulamentoBCC;
+package AccountBank;
 
 //POJO - Plain Old Java Object
 public class Pessoa {
